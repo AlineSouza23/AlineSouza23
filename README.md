@@ -1,7 +1,7 @@
 ## OLá eu sou a Aline Souza.
 <div align="center">
   <a href="https://github.com/AlineSouza23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineSouza23&show_icons=true&theme=Night Owl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineSouza23&show_icons=true&theme=One Dark Pro&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSouza23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
