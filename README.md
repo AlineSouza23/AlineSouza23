@@ -1,4 +1,4 @@
-## OLá eu sou a Aline Souza.
+## Olá eu sou a Aline Souza.
 
 <div align="center">
   <a href="https://github.com/AlineSouza23">
