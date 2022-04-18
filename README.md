@@ -1,4 +1,5 @@
 ## OLá eu sou a Aline Souza.
+<style> </style>
 <div align="center">
   <a href="https://github.com/AlineSouza23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineSouza23&show_icons=true&theme=Shades of Purple&include_all_commits=true&count_private=true"/>
