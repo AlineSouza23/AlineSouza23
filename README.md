@@ -15,19 +15,11 @@
   <img align="center" alt="Line-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Line-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="center" height="150" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="center" height="150" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-  </div>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="center" height="150" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="center" height="150" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="center" height="150" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   
   ##
  
 <div> 
  
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alineparacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/AlineSouza23/AlineSouza23/blob/output/github-contribution-grid-snake.svg)
  
