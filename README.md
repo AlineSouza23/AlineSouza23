@@ -14,7 +14,7 @@
   <img align="center" alt="Line-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Line-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Line-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="height 150px" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/d5079013be49ad40c4d553799647d642.gif" align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   
   ##
  
