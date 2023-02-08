@@ -1,41 +1,14 @@
 
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##  Olá me chamo Aline, segue abaixo os status do Git e minhas redes sociais! 👋 
 
 </span>
 
 
-<div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
-</div>
 
 
-<p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm doing my master in <strong>Computer Engineer</strong>.<br />
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 
-</p>
-
-<p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
-</p>
-
-<p align="center">
-  💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
-</p>
-
-<p align="center">
-  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
-</p>
-
-<p align="center">
-  🚀  Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Go, SASS, UI, UX.</strong>
-</p>
-
-<p align="center">
-  💌 Text me: ⤵️
-</p>
 
 <p align="center">
   <a href="https://www.instagram.com/error418.code/" alt="Instagram">
