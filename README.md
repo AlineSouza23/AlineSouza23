@@ -1,7 +1,7 @@
 
 <span align="center">
 
-##  Olá me chamo Aline, segue abaixo os status do Git e minhas redes sociais! 👋 
+## ✨ Olá me chamo Aline, segue abaixo os status do Git e minhas redes sociais! ✨
 
 </span>
 <br><br>
@@ -17,7 +17,7 @@
 
 </div>
    
-  <div align="center"><h1>💻 Tecnologias utilizadas</h1>
+  <div align="center"><h1>💻 Tecnologias utilizadas💻 </h1>
 
 <p align="center" weight="bold">
   
@@ -32,11 +32,11 @@
 </p>
 </div>
   <div align="center"> <br><br>
-    <h1>Redes sociais</h1
+   <h1>👩‍💻Redes sociais👩‍💻</h1>
 
-  <a href="https://www.instagram.com/lineesouza__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
- 	  <a href = "mailto:alineparacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-  <a href="https://www.linkedin.com/in/aline-souza-de-macedo-6131bb235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+  <a href="https://www.instagram.com/lineesouza__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a><p> ~💎~</p>
+ 	  <a href = "mailto:alineparacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a><p> ~💎~</p>
+  <a href="https://www.linkedin.com/in/aline-souza-de-macedo-6131bb235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a><p> ~💎~</p>
  
   ![Snake animation](https://github.com/AlineSouza23/AlineSouza23/blob/output/github-contribution-grid-snake.svg)
  
