@@ -4,67 +4,34 @@
 ##  Olá me chamo Aline, segue abaixo os status do Git e minhas redes sociais! 👋 
 
 </span>
+<br><br>
 
-
-
-
-
-
-<p align="center">
-  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
-  
-  <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buyyy Me A Coffee" height="60px" width="217px" ></a>
+<p align = "center" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=AlineSouza23&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSouza23&hide=css,html&theme=tokyonight">
 </p>
 
-
-
-## Status do GitHub  
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
-</p>
-
-
-<!--
-**kakacordovil/kakacordovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <a href="https://github.com/AlineSouza23">
 
 </div>
    
-  <div align="center"><h1>💻 Tecnologias utilizadas</h1></div>
+  <div align="center"><h1>💻 Tecnologias utilizadas</h1>
 
 <p align="center" weight="bold">
   
- <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="40" width="90"/>
- <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="40" width="130"/>
- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="40" width="130"/> 
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" width="130"/>
- <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="40" width="130"/>
+ <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="40" width="90"/>❤
+ <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="40" width="130"/>💛
+ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="40" width="130"/>💙
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" width="130"/>🖤
+ <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="40" width="130"/>💜
 
 
 
 </p>
-  <div align="center"> 
+</div>
+  <div align="center"> <br><br>
     <h1>Redes sociais</h1
 
   <a href="https://www.instagram.com/lineesouza__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
