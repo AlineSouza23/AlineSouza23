@@ -31,12 +31,14 @@
 
 </p>
 </div>
-  <div align="center"> <br><br>
-   <h1>👩‍💻Redes sociais👩‍💻</h1>
 
-  <a href="https://www.instagram.com/lineesouza__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a><p> ~💎~</p>
- 	  <a href = "mailto:alineparacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a><p> ~💎~</p>
-  <a href="https://www.linkedin.com/in/aline-souza-de-macedo-6131bb235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a><p> ~💎~</p>
+  <div> <br><br>
+   <h1  align="center">👩‍💻Redes sociais👩‍💻</h1>
+       <img src="https://user-images.githubusercontent.com/94193814/217658044-b121282a-26e8-4345-8c38-1389abfaa587.gif" weigth="200" width="200" padding="100">
+
+<p  align="center" weigth="50" width="50" padding="100"> <a href="https://www.instagram.com/lineesouza__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a> <br>~💎~</p>
+ 	 <p  align="center"> <a href = "mailto:alineparacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a><br> ~💎~</p>
+  <p  align="center"><a href="https://www.linkedin.com/in/aline-souza-de-macedo-6131bb235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a><br>~💎~</p>
  
   ![Snake animation](https://github.com/AlineSouza23/AlineSouza23/blob/output/github-contribution-grid-snake.svg)
  
