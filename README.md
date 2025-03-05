@@ -35,7 +35,7 @@
   <div> <br><br>
    <h1  align="center">👩‍💻Redes sociais👩‍💻</h1>
        <img src="https://user-images.githubusercontent.com/94193814/217658044-b121282a-26e8-4345-8c38-1389abfaa587.gif" align="right" height="200" weigth="250">
-              <img src="https://user-images.githubusercontent.com/94193814/217658044-b121282a-26e8-4345-8c38-1389abfaa587.gif" align="left" height="200" weigth="250">
+             
 
 <br>
 <p  align="center" weigth="50" width="50" padding="100"> <a href="https://www.instagram.com/lineesouza__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a> <br>~💎~</p>
