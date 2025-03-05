@@ -35,7 +35,7 @@
   <div> <br><br>
    <h1  align="center">👩‍💻Redes sociais👩‍💻</h1>
        <img src="https://user-images.githubusercontent.com/94193814/217658044-b121282a-26e8-4345-8c38-1389abfaa587.gif" align="right" height="200" weigth="250">
-        <img src="https://user-images.githubusercontent.com/94193814/217658044-b121282a-26e8-4345-8c38-1389abfaa587.gif" align="right" height="200" weigth="250">
+        <img src="https://user-images.githubusercontent.com/94193814/217658044-b121282a-26e8-4345-8c38-1389abfaa587.gif" align="left" height="200" weigth="950">
 
 <br>
  	 <p  align="center"> <a href = "mailto:alineparacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a><br> ~💎~</p>
